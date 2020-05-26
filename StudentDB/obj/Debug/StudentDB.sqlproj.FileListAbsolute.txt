@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\ASPNETMvcSample\StudentDB\bin\Debug\StudentDB.dacpac
+C:\Users\LENOVO\source\repos\ASPNETMvcSample\StudentDB\bin\Debug\StudentDB.dll
+C:\Users\LENOVO\source\repos\ASPNETMvcSample\StudentDB\bin\Debug\StudentDB.pdb
+C:\Users\LENOVO\source\repos\ASPNETMvcSample\StudentDB\obj\Debug\StudentDB.sqlprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ASPNETMvcSample\StudentDB\obj\Debug\StudentDB.dll
+C:\Users\LENOVO\source\repos\ASPNETMvcSample\StudentDB\obj\Debug\StudentDB.pdb
